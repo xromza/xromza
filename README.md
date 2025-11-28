@@ -1,4 +1,8 @@
-## Hi there 👋
+![](./avatar3.gif)
+
+## ▫️Full-Stack Developer▫️
+
+### 🔴 Stack: C++, Python, Java, CSS, HTML, JavaScript, SQL 🔴
 
 <!--
 **xromza/xromza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
